@@ -16,6 +16,6 @@ The technologies I used, include:
 ### Project Deployment
 This site is deployed on github pages, and the live code is below.
 
-Live code: 
+Live link: https://musab1258.github.io/Build-a-Tribute-Page/
 
 <hr>
